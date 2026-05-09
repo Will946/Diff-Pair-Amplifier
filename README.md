@@ -120,7 +120,6 @@ All simulations were run in ngspice via KiCAD.
 | `Bodeplot.png` | AC gain and phase vs frequency |
 | `DC_Analysis.png` | DC operating point simulation |
 | `Transient_Analsyis.png` | Transient input/output waveforms |
-| `UGF_-3DB.png` | Cursor measurements for UGF and -3 dB |
 | `PCB.png` | 3D render of PCB |
 
 ---
